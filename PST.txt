@@ -7,6 +7,7 @@
     </head>
     <body> 
 	<b>Горнолыжка по PiterSki</b>
+	<b2>Welcome to community</b2>
         <div class="card">
             <img src="img/pst .png" alt="PiterSki"> 
         </div>
